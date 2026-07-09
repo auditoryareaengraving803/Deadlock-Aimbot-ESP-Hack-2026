@@ -1,0 +1,5 @@
+pillow
+keyboard
+requests
+pywin32
+click
